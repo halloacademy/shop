@@ -24,27 +24,6 @@
           "shopName":"Aldi2",
           "productName":"Blackberry and Cherry Harvest Crumble2",
           "price":2.99
-       },
-       {
-          "id":5,
-          "shopName":"Lidl3",
-          "productName":"Blackberry and Cherry Harvest Crumble3",
-          "price":2.99
-       },
-          "id":6,
-          "shopName":"Aldi4",
-          "productName":"Blackberry and Cherry Harvest Crumble4",
-          "price":2.99
-       },
-          "id":7,
-          "shopName":"Aldi5",
-          "productName":"Blackberry and Cherry Harvest Crumble5",
-          "price":2.99
-       },
-          "id":8,
-          "shopName":"Aldi6",
-          "productName":"Blackberry and Cherry Harvest Crumble6",
-          "price":2.99
        }
  ]
 }
