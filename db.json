@@ -1,0 +1,24 @@
+       {
+          "id":1,
+          "shopName":"H&M",
+          "productName":"New V Neck Black T-Shirt",
+          "price":4.99
+       },
+       {
+          "id":2,
+          "shopName":"Douglas",
+          "productName":"Infusion Vert Repairing Multi - Layer Hand Cream",
+          "price":23.10
+       },
+       {
+          "id":3,
+          "shopName":"IKEA",
+          "productName":"LED lighting chain with 12 lights, outdoor, battery-operated black",
+          "price":16.99
+       },
+       {
+          "id":4,
+          "shopName":"Aldi",
+          "productName":"Blackberry and Cherry Harvest Crumble",
+          "price":2.99
+       }
