@@ -23,6 +23,12 @@
           "shopName":"Aldi",
           "productName":"Blackberry and Cherry Harvest Crumble",
           "price":2.99
+       },
+       {
+          "id":5,
+          "shopName":"Lidl",
+          "productName":"Blackberry and Cherry Harvest Crumble",
+          "price":2.99
        }
  ]
 }
