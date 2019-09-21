@@ -1,4 +1,6 @@
-       {
+{  "shops": [
+
+        {
           "id":1,
           "shopName":"H&M",
           "productName":"New V Neck Black T-Shirt",
@@ -22,3 +24,5 @@
           "productName":"Blackberry and Cherry Harvest Crumble",
           "price":2.99
        }
+ ]
+}
