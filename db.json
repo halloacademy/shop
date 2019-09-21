@@ -4,7 +4,8 @@
           "id":1,
           "shopName":"H&M",
           "productName":"New V Neck Black T-Shirt",
-          "price":4.99
+          "price":4.99,
+          "shopImage":"https://raw.githubusercontent.com/halloacademy/code/master/img/qr-btc.png"            
        },
        {
           "id":2,
